@@ -1,0 +1,10 @@
+data/*
+.idea/*
+obj/*
+bin/*
+src/*
+include/*
+Makefile
+*.pyc
+models/*
+figures/*
